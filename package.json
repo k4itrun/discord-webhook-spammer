@@ -1,0 +1,25 @@
+{
+  "name": "discord-webhook-spammer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mts",
+  "scripts": {
+    "start": "tsx src/index.mts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.3",
+    "boxen": "^8.0.1",
+    "dotenv": "^16.4.5",
+    "fs": "^0.0.1-security",
+    "gradient-string": "^2.0.2",
+    "path": "^0.12.7",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "@types/gradient-string": "^1.1.6",
+    "@types/node": "^22.2.0"
+  }
+}

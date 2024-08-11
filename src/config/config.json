@@ -1,0 +1,39 @@
+{
+    "debug": false,
+    "messages": {
+        "spam": {
+            "username": "k4itrun",
+            "avatar_url": "https://imgur.com/b8HSm48.gif",
+            "content": "@everyone **@k4itrun is here...**\n- https://www.youtube.com/@k4itrun\n- https://discord.gg/K7AT5hZEbn",
+            "tts": true,
+            "embeds": [
+                {
+                    "color": 15289597,
+                    "author": {
+                        "name": "k4itrun is here...",
+                        "url": "https://github.com/k4itrun",
+                        "icon_url": "https://imgur.com/b8HSm48.gif"
+                    },
+                    "thumbnail": {
+                        "url": "https://imgur.com/b8HSm48.gif"
+                    },
+                    "title": "@k4itrun is here...",
+                    "description": "This server is not owned by you now, it belongs to k4itrun hehe.",
+                    "image": {
+                        "url": "https://imgur.com/b8HSm48.gif"
+                    },
+                    "footer": {
+                        "text": "powered by https://github.com/k4itrun",
+                        "icon_url": "https://i.imgur.com/WkKXZSl.gif"
+                    }
+                }
+            ]
+        },
+        "deleted": {
+            "username": "k4itrun",
+            "avatar_url": "https://imgur.com/b8HSm48.gif",
+            "content": "@everyone **bye webhook deleted by k4itrun...**\n- https://www.youtube.com/@k4itrun\n- https://discord.gg/K7AT5hZEbn",
+            "tts": true
+        }
+    }
+}
