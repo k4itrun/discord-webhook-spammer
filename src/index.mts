@@ -17,10 +17,16 @@ const config = JSON.parse(fs.readFileSync(
   'utf-8'
 ));
 
+const UniqueId = (): string => {
+  return Math.random().toString(36).substring(2) + Date.now().toString(36);
+};
+
 const client: AxiosInstance = axios.create({
   headers: {
     'Content-Type': 'application/json',
-    'User-Agent': 'Aurita Spammer'
+    'User-Agent': 'Aurita Spammer',
+    'Accept': 'application/json',
+    'X-Request-ID': UniqueId()
   }
 });
 
