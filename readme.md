@@ -26,8 +26,8 @@ The tool is coded in a typescript module, optimal and simple, when executed in s
       ╭────────────────────────────────────╮
       │                                    │
       │                                    │
-      │      [1] - Spam the webhook        │
-      │      [2] - Delete the webhook      │
+      │        [1] - Spam webhook          │
+      │        [2] - Delete webhook        │
       │                                    │
       │                                    │
       ╰────────────────────────────────────╯
