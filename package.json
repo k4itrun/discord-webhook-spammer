@@ -13,9 +13,7 @@
     "axios": "^1.7.3",
     "boxen": "^8.0.1",
     "dotenv": "^16.4.5",
-    "fs": "^0.0.1-security",
     "gradient-string": "^2.0.2",
-    "path": "^0.12.7",
     "typescript": "^5.5.4"
   },
   "devDependencies": {
